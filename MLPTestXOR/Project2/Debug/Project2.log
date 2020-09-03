@@ -1,0 +1,12 @@
+﻿  MLP.cpp
+C:\Users\sokl6\source\repos\MLPTestXOR\Project2\MLP.cpp(90,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sokl6\source\repos\MLPTestXOR\Project2\MLP.cpp(142,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\sokl6\source\repos\MLPTestXOR\Project2\MLP.cpp(200,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sokl6\source\repos\MLPTestXOR\Project2\MLP.cpp(237,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sokl6\source\repos\MLPTestXOR\Project2\MLP.cpp(241,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sokl6\source\repos\MLPTestXOR\Project2\MLP.cpp(245,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sokl6\source\repos\MLPTestXOR\Project2\MLP.cpp(255,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sokl6\source\repos\MLPTestXOR\Project2\MLP.cpp(257,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MLPTestXOR.cpp
+  코드를 생성하고 있습니다...
+  Project2.vcxproj -> C:\Users\sokl6\source\repos\MLPTestXOR\Debug\MLPTestXOR.exe
