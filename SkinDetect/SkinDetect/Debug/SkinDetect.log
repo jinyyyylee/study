@@ -1,0 +1,9 @@
+﻿  SkinDetect.cpp
+C:\Users\sokl6\source\repos\SkinDetect\SkinDetect\SkinDetect.cpp(27,15): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+C:\Users\sokl6\source\repos\SkinDetect\SkinDetect\SkinDetect.cpp(23,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\sokl6\source\repos\SkinDetect\SkinDetect\SkinDetect.cpp(23,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\sokl6\source\repos\SkinDetect\SkinDetect\SkinDetect.cpp(71,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sokl6\source\repos\SkinDetect\SkinDetect\SkinDetect.cpp(81,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sokl6\source\repos\SkinDetect\SkinDetect\SkinDetect.cpp(84,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sokl6\source\repos\SkinDetect\SkinDetect\SkinDetect.cpp(147,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SkinDetect.vcxproj -> C:\Users\sokl6\source\repos\SkinDetect\Debug\SkinDetect.exe
