@@ -1,1 +1,4 @@
--안녕하세요 이진영입니다
+로또번호 생성앱 study/main
+-androidsutdio 개발환경에서 kotlin언어를 사용했습니다.
+
+
